@@ -1,5 +1,4 @@
 # Project-Meep
 
 # Goal
-
-We are making project bearcat for no reason xD
+Putting All Kind of Hacks in 1 simple Place!
